@@ -1,0 +1,89 @@
+INFO:     Started server process [74369]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     ('127.0.0.1', 54932) - "WebSocket /ws/updates" [accepted]
+INFO:     connection open
+Seeding DB with mock infrastructure (~50 nodes) around Stalowa Wola landmarks
+INFO:     127.0.0.1:54918 - "GET /api/data HTTP/1.1" 200 OK
+INFO:     connection closed
+INFO:     127.0.0.1:54940 - "GET /api/data HTTP/1.1" 200 OK
+INFO:     ('127.0.0.1', 54942) - "WebSocket /ws/updates" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     ('127.0.0.1', 52914) - "WebSocket /ws/updates" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:52928 - "GET /api/data HTTP/1.1" 200 OK
+INFO:     ('127.0.0.1', 52934) - "WebSocket /ws/updates" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:52928 - "GET /api/data HTTP/1.1" 200 OK
+INFO:     connection closed
+INFO:     connection closed
+INFO:     ('127.0.0.1', 48554) - "WebSocket /ws/updates" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:48542 - "GET /api/data HTTP/1.1" 200 OK
+INFO:     ('127.0.0.1', 48562) - "WebSocket /ws/updates" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:48542 - "GET /api/data HTTP/1.1" 200 OK
+INFO:     connection closed
+INFO:     connection closed
+INFO:     ('127.0.0.1', 32826) - "WebSocket /ws/updates" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:32824 - "GET /api/data HTTP/1.1" 200 OK
+INFO:     ('127.0.0.1', 44574) - "WebSocket /ws/updates" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:44558 - "GET /api/data HTTP/1.1" 200 OK
+INFO:     ('127.0.0.1', 44590) - "WebSocket /ws/updates" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:44558 - "GET /api/data HTTP/1.1" 200 OK
+INFO:     connection closed
+INFO:     connection closed
+INFO:     ('127.0.0.1', 44602) - "WebSocket /ws/updates" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:44600 - "GET /api/data HTTP/1.1" 200 OK
+INFO:     ('127.0.0.1', 44610) - "WebSocket /ws/updates" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:44600 - "GET /api/data HTTP/1.1" 200 OK
+INFO:     connection closed
+INFO:     connection closed
+INFO:     ('127.0.0.1', 42924) - "WebSocket /ws/updates" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:44600 - "GET /api/data HTTP/1.1" 200 OK
+INFO:     ('127.0.0.1', 42940) - "WebSocket /ws/updates" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     127.0.0.1:44600 - "GET /api/data HTTP/1.1" 200 OK
+INFO:     connection closed
+INFO:     ('127.0.0.1', 42944) - "WebSocket /ws/updates" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:44600 - "GET /api/data HTTP/1.1" 200 OK
+INFO:     ('127.0.0.1', 42958) - "WebSocket /ws/updates" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:44600 - "GET /api/data HTTP/1.1" 200 OK
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     ('127.0.0.1', 39978) - "WebSocket /ws/updates" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:39986 - "GET /api/data HTTP/1.1" 200 OK
+INFO:     ('127.0.0.1', 39990) - "WebSocket /ws/updates" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:39986 - "GET /api/data HTTP/1.1" 200 OK
+INFO:     connection closed
+INFO:     connection closed
+INFO:     ('127.0.0.1', 54312) - "WebSocket /ws/updates" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:54308 - "GET /api/data HTTP/1.1" 200 OK
+INFO:     ('127.0.0.1', 54316) - "WebSocket /ws/updates" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:54308 - "GET /api/data HTTP/1.1" 200 OK
+INFO:     connection closed
+INFO:     connection closed
+INFO:     ('127.0.0.1', 39550) - "WebSocket /ws/updates" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:39536 - "GET /api/data HTTP/1.1" 200 OK
+INFO:     ('127.0.0.1', 39558) - "WebSocket /ws/updates" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:39536 - "GET /api/data HTTP/1.1" 200 OK
+INFO:     connection closed
+INFO:     connection closed

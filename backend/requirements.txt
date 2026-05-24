@@ -1,0 +1,6 @@
+fastapi==0.101.1
+uvicorn[standard]==0.22.0
+networkx==3.2
+python-dotenv==1.0.0
+pydantic==2.4.0
+requests==2.31.0
