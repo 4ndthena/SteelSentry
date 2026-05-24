@@ -1,7 +1,7 @@
 #!/bin/sh
 set -e
 
-if [ ! -d node_modules/express ]; then
+if [ ! -x node_modules/.bin/vite ]; then
   echo "Installing frontend dependencies"
   npm ci --silent 2>/dev/null || npm install --silent
 fi
